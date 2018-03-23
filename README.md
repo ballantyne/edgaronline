@@ -5,6 +5,8 @@ edgaronline
 
 I thought that the SEC has made huge improvements to their data offerings, but they haven't!  A company called Donnelly Financial made a better api and have made it available to people on a test basis for two weeks and then you have to pay.  I tried to sign up to get a key and a lady gave me a bunch of obtuse answers and then never gave me a key.  If you sign up, you need to wait an hour for the key to be activated.  My key never got activated, not even the next day, I asked about it and the lady said, you need to wait an hour.  I explained again that I had waited an hour and then I also waited until the next morning and tried again and the key still wasn't working.  Then she asked me what I was trying to accomplish, was I going to make a product or a service and I told her that I was making an open source library of the api and then once I made the library I was going to see what I am able to make.  Then she asked me which api I wanted to test and I said that I needed to test all of the apis because I was making a library and that I had followed the spec very closely so that I thought that it would work then she never wrote back and the stock market dropped 724 points.  Probably just a coincidence right?  So I am not sure if this library works, but it is probably is pretty darn close.  Pull requests are welcome?  
 
+Not really sure if I want to publish it since I haven't really tested it.
+
 [API Documentation](http://developer.edgar-online.com/docs)
 
 ## Installation
@@ -73,13 +75,12 @@ institutionalOwnership.issues({ciks: '0001090872'}, function(err, result) {
 });
 ```
 
-There would be better examples and more thorough tests, but REDACTED employee of Donnelly Financial wasn't interested in helping me with the key issue.  
-
+There would be better examples and more thorough tests, but REDACTED employee of Donnelly Financial wasn't interested in helping me with the key issue.  The examples above don't have the right parameters, if I can get access maybe I'll fix the readme and finish the tests.  Underwhelmed by Donnelly Financial.
 
 Donations
 ------------
 
-Hot on the trail of scumbags insider traders that make a mockery of our currently accepted financial system?  Want to reward the person that made this kick-ass npm module?  That's right, you can make a difference in a solitary nerd's life.  Donate at the following cryptocurrency addresses, and thanks you for your support.  
+Hot on the trail of scumbag insider traders that make a mockery of our currently accepted financial system?  Want to reward the person that made this kick-ass npm module?  That's right, you can make a difference in a solitary nerd's life.  Donate at the following cryptocurrency addresses, and thanks you for your support.  
 
 * BTC: 1A1BrPyWpdXLPsidjaMAmyNG71vFwmKPSR
 * BCH: qqhk5ce25fs706sk9vlnhtezpk3ezp9euc82cyky8v
