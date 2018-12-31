@@ -73,7 +73,7 @@ institutionalOwnership.issues({ciks: '0001090872'}, function(err, result) {
 });
 ```
 
-There would be better examples and more thorough tests, but Pam Maiorana of Donnelly Financial wasn't interested in helping me with the key issue.  The examples above don't have the right parameters, if I can get access maybe I'll fix the readme and finish the tests.  Underwhelmed by Donnelly Financial.
+The examples above don't have the right parameters, if I can get access maybe I'll fix the readme and finish the tests.  Underwhelmed by Donnelly Financial.
 
 Donations
 ------------
