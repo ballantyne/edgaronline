@@ -75,7 +75,7 @@ institutionalOwnership.issues({ciks: '0001090872'}, function(err, result) {
 
 The examples above don't have the right parameters, if I can get access maybe I'll fix the readme and finish the tests.  Underwhelmed by Donnelly Financial.
 
-Donations
+Tips
 ------------
 
 Hot on the trail of scumbag insider traders that make a mockery of our currently accepted financial system?  Want to reward the person that made this kick-ass npm module?  That's right, you can make a difference in a solitary nerd's life.  Donate at the following cryptocurrency addresses, and thanks you for your support.  
